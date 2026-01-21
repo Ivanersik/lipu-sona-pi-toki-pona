@@ -1,7 +1,7 @@
 ---
 sp: 󱤈
-definition: stay, remain, wait, pause; protect, keep safe; continue
-preverb: continue to
+definition: стоять, оставаться, ждать, остановиться; защищать; продолжать
+preverb: продолжать
 ---
 <!-- awen is about continuation and preservation. when you awen, you are staying as you are. maybe that means you're continuing to play minecraft. maybe it means that you're staying still and doing nothing. awen can describe pauses, but mostly in the sense that when you pause something, everything will remain the way it was. it doesn't really describe the "stop" aspect of pausing.
 

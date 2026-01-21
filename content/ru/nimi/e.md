@@ -1,4 +1,4 @@
 ---
 sp: 󱤉
-particle: marks the direct object
+particle: отмечает прямое дополнение
 ---

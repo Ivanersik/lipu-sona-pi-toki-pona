@@ -10,7 +10,7 @@ next: вперед
 particle: частица
 preverb: предглагол
 preposition: предлог
-number: номер
+number: число
 ---
 
 <!-- 
@@ -48,7 +48,7 @@ note for translators: feel free to change the file names! just make sure to keep
   - словари
     - Определения, используемые в этом курсе, основаны на [lipu Linku](https://linku.la/)
     - [словарь toki pona от lipamanka](https://lipamanka.gay/essays/dictionary) содержит длинные определения слов
-  - я использую эти ресурсы, когда запутываюсь:
+  - используй, когда сложно:
     - [nasin toki от jan Juli](https://github.com/kilipan/nasin-toki)
     - [lipu pu от jan Sonja](https://tokipona.org/)
   - другие хорошие ресурсы:

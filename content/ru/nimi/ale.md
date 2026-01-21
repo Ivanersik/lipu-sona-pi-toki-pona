@@ -1,6 +1,6 @@
 ---
 sp: 󱤄
-definition: all, every, everything, entirety
-number: one hundred
+definition: все, каждый
+number: сто
 ---
 <!-- - ale is everything. it's the whole of something -->

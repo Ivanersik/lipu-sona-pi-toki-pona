@@ -1,6 +1,6 @@
 ---
 sp: 󱤇
-particle: separates multiple possibilities, replacing the particle/preposition
+particle: отделяет несколько возможностей, заменяя частицу/предлог (или)
 ---
 <!-- my course's lesson on anu used to be called "anu (it's fucked up)". this was because, at the time, i thought that anu was this very poorly defined thing that everyone was using in lots of different conflicting ways and it was like the wild west! i thought this mostly because there's a tendency where people just don't want to even try to teach anu, because they are so unsure of themselves and their own usage. when i got around to making my course, i felt as if i needed to define anu all on my own, like there was no real usage behind it.
 

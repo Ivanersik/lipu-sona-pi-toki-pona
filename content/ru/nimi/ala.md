@@ -1,7 +1,7 @@
 ---
 sp: 󱤂
-definition: not, nothing, no
-number: zero
+definition: не, ничего, нет
+number: ноль
 ---
 <!-- ala is about nothing. well, it's about something. but the something is nothing. as a modifier it's especially great, as it helps us specify what we're NOT talking about. something that's ike ala could be many things, but one thing's for sure: it's not ike.
 
