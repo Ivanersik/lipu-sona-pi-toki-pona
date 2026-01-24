@@ -1,5 +1,5 @@
 ---
 sp: 󱤐
-definition: disgusting, obscene, sickly, toxic, unclean, unsanitary
+definition: отвратительный, неприличный, тошнотворный, токсичный, грязный
 ---
 <!-- jaki is gross stuff. ewwwww -->

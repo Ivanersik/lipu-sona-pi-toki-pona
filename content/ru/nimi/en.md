@@ -1,4 +1,4 @@
 ---
 sp: 󱤊
-particle: between additional subjects
+particle: между однородными подлежащими
 ---

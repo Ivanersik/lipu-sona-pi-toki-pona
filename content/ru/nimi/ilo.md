@@ -1,6 +1,6 @@
 ---
 sp: 󱤎
-definition: tool, implement, machine, device
+definition: инструмент, осуществлять, машина, устройство
 ---
 <!-- ilo is tools! it's useful things! it's machines!
 

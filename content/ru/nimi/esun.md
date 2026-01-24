@@ -1,6 +1,6 @@
 ---
 sp: 󱤋
-definition: trade, barter, exchange, swap, buy, sell; market, shop, fair, bazaar, place of business
+definition: торговля, бартер, обмен, менять, покупать, продавать; маркет, магазин, ярмарка, базар, место деятельности
 ---
 <!-- esun is primarily about exchanging, which means it can refer to trading two items, it can refer to purchasing something or selling something.
 

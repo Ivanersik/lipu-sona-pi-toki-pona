@@ -1,6 +1,6 @@
 ---
 sp: 󱤑
-definition: human being, person, someone
+definition: человек, персона, кто-то
 ---
 <!-- jan is a word that at the very least describes human beings, but to most people it describes more than just that too. the tricky thing is that it's hard to make a clear definition of what additional things jan covers, because most lines one might try to draw are problematic or exclusionary. 
 

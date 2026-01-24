@@ -1,7 +1,7 @@
 ---
 sp: 󱤘
-definition: ability, permission; possibility, maybe; allow, enable
-preverb: to be able to
+definition: способность, разрешение; возможность, может быть; позволить, дать возможность
+preverb: иметь возможность
 ---
 <!-- ken talks about ability, skills, possibilities. when sina ken e ijo, you give that ijo some sort of ability. usually, it's the permission to do something.
 

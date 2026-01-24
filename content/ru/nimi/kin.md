@@ -1,7 +1,7 @@
 ---
 sp: 󱥹
-definition: indeed
-particle: (after phrase or at sentence start) too, also, as well, additionally
+definition: действительно
+particle: (после фразы или в начале предложения) тоже, также, дополнительно
 ---
 <!-- kin tells us something is in addition to something else. whatever you modify with kin, you're saying that there are other things in addition to what you've modified with kin as well. "mi kin li lukin" means "i also (in addition to others) am looking", whereas "mi lukin kin" means "i am also looking (in addition to other things im doing)". some people might also interpret a kin at the end of the sentence as applying to the whole sentence.
 

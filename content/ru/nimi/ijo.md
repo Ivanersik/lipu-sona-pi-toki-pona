@@ -1,6 +1,6 @@
 ---
 sp: 󱤌
-definition: thing, phenomenon, object, matter, something; being, entity
+definition: вещь, явление, объект, вещество, что-то; существо
 ---
 <!-- everything and everyone is ijo. it's the most generic term possible. ijo is essentially like a placeholder where more specific words would normally go. "ijo li ijo e ijo" means "something did something to something".
 
