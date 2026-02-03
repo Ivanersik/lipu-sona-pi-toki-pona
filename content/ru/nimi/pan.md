@@ -1,5 +1,5 @@
 ---
 sp: 󱥋
-definition: grains, starchy foods, baked goods; rice, sorghum, bread, noodles, masa, porridge, injera
+definition: крупинка, крахмалистые продукты, выпечка; рис, сорго, хлеб, лапша, маса, каша, инджера
 ---
 <!-- pan is bread and grains and stuff. -->

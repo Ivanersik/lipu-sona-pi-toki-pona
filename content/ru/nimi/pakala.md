@@ -1,5 +1,5 @@
 ---
 sp: 󱥈
-definition: damage, break, botch, harm, mess up; mistake
+definition: повредить, сломать, испортить, навредить, накосячить; ошибка
 ---
 <!-- pakala means fuck. -->

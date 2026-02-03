@@ -1,5 +1,5 @@
 ---
 sp: 󱥏
-definition: dark, unlit; black, purple, brown
+definition: темный, неосвещенный; черный, фиолетовый, коричневый
 ---
 <!-- pimeja is darkness and dark shades of colour. -->

@@ -1,5 +1,5 @@
 ---
 sp: 󱤥
-definition: cloth, fabric, textile; hidden, secret, covered, private
+definition: ткань, материал, текстиль; скрытый, секретный
 ---
 <!-- len is about covering stuff up. it's about clothing and secrecy.  -->

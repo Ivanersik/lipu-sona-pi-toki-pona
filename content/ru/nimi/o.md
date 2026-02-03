@@ -1,4 +1,4 @@
 ---
 sp: 󱥄
-particle: vocative, imperative, or optative
+particle: для выражения обращения, веления или желания
 ---

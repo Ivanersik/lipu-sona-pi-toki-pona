@@ -1,5 +1,5 @@
 ---
 sp: 󱥮
-definition: separate, divide, split
+definition: разделять, делить, расколоть
 number: two
 ---

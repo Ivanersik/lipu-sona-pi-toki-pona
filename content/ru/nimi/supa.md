@@ -1,4 +1,4 @@
 ---
 sp: 󱥥
-definition: flat horizontal surface; bed, floor, desk, plate, table, platform, stage
+definition: плоская горизонтальная поверхность; кровать, пол, стол, тарелка, платформа, сцена
 ---

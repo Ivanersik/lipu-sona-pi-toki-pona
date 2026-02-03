@@ -1,5 +1,5 @@
 ---
 sp: 󱥨
-definition: only, exclusively
-particle: marks a sentence as qualifying or contradictory; but, however
+definition: только, исключительно
+particle: обозначает предложение как уточняющее или противоречивое; но, однако
 ---

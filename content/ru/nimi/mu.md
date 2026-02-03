@@ -1,5 +1,5 @@
 ---
 sp: 󱤹
-definition: animal noise or communication; non-speech vocalization
+definition: животный звук; неречевая вокализация
 ---
 <!-- mu is meow -->

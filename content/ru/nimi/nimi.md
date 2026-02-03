@@ -1,5 +1,5 @@
 ---
 sp: 󱥂
-definition: word, name
+definition: слово, имя
 ---
 <!-- nimi is words and names. -->

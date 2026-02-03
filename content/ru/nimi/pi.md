@@ -1,4 +1,4 @@
 ---
 sp: 󱥍
-particle: regroups modifiers
+particle: перегруппировывает определения
 ---

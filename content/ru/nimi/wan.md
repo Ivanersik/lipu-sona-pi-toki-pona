@@ -1,5 +1,5 @@
 ---
 sp: 󱥳
-definition: singular, united; combine, join, mix, fuse
+definition: единичный, объединенный; комбинировать, присоединять, смешивать, сливать
 number: one 
 ---

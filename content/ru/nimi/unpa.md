@@ -1,4 +1,4 @@
 ---
 sp: 󱥯
-definition: sex, to have sex with
+definition: секс, заниматься сексом
 ---

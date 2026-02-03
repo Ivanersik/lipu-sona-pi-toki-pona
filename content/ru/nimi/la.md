@@ -1,4 +1,4 @@
 ---
 sp: 󱤡
-particle: between the context phrase/sentence and the main sentence
+particle: между контекстной фразой/предложением и основным предложением
 ---

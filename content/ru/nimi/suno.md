@@ -1,4 +1,4 @@
 ---
 sp: 󱥤
-definition: light, shine, glow, radiance; sun, light source; brightness
+definition: свет, сияние, блеск, лучезарность; солнце, источник света; яркость
 ---

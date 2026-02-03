@@ -1,4 +1,4 @@
 ---
 sp: 󱥰
-definition: mouth, throat, consuming orifice
+definition: рот, горло, потребляющее отверстие
 ---

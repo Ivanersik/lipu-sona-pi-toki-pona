@@ -1,4 +1,4 @@
 ---
 sp: 󱥲
-definition: light-colored, white, pale, light gray, cream
+definition: светлый, белый, бледный, светло-серый, кремовый
 ---

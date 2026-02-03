@@ -1,4 +1,4 @@
 ---
 sp: 󱥱
-definition: fight, compete, battle; competition, challenge; struggle, strive
+definition: сражаться, конкурировать, битва; конкуренция, испытание; бороться, стремиться
 ---

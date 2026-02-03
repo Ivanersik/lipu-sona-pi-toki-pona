@@ -1,4 +1,4 @@
 ---
 sp: 󱥵
-definition: power, energy, strength; confident, intense, forceful; amazing, impressive
+definition: сила, энергия; уверенный, интенсивный, мощный; удивительный, впечатляющий
 ---

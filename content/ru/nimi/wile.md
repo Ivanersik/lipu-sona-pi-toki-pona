@@ -1,5 +1,5 @@
 ---
 sp: 󱥷
-definition: want, desire, wish, require
-preverb: want to
+definition: хотеть, нуждаться, желать
+preverb: хотеть
 ---

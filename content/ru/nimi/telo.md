@@ -1,4 +1,4 @@
 ---
 sp: 󱥪
-definition: liquid; water, gasoline, soda, lava, soup, oil, ink
+definition: жидкость; вода, газолин, газировка, лава, суп, масло, чернила
 ---

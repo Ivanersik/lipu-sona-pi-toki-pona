@@ -1,4 +1,4 @@
 ---
 sp: 󱥙
-particle: indicates missing information in a question
+particle: указывает на недостающую информацию в вопросе
 ---

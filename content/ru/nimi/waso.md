@@ -1,4 +1,4 @@
 ---
 sp: 󱥴
-definition: bird, flying creature, winged creature
+definition: птица, летающее существо, крылатое существо
 ---

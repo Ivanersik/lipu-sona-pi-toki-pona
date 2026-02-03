@@ -1,4 +1,4 @@
 ---
 sp: 󱥕
-definition: "to interact with the book Toki Pona: The Language of Good by Sonja Lang"
+definition: "взаимодействовать с книгой «Токи Пона: Язык добра» Сони Ланг"
 ---

@@ -1,7 +1,7 @@
 ---
 sp: 󱤬
-definition: real, true, existing, present
-preposition: located at, located in
+definition: настоящий, правда, существующий, присуствующий
+preposition: расположен в
 ---
 <!-- lon talks about the truth, our reality. it talks about things that are currently present. as a preposition it tells us where the sentence is happening.
 

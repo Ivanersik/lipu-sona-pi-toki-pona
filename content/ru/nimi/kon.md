@@ -1,6 +1,6 @@
 ---
 sp: 󱤝
-definition: air, breath, wind; essence, spirit, soul, ghost; unseen agent
+definition: воздух, дыхание, ветер; сущность, дух, душа, привидение; невидимка
 ---
 <!-- kon has a lot of meaning and a wide metaphorical use. primarily it's about air and wind, but ultimately it's about things we can't see but which still do something important. kon can describe someone's vibes, it can describe the deeper meaning of others's speech, it can describe 
 

@@ -1,4 +1,4 @@
 ---
 sp: 󱥫
-definition: time, event, situation, moment, period, duration
+definition: время, событие, ситуация, момент, период, продолжительность
 ---

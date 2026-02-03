@@ -1,4 +1,4 @@
 ---
 sp: 󱥶
-definition: absent, away, distant; remove, get rid of
+definition: отсутствующий, прочь, отдаленный; убрать, избавиться
 ---

@@ -1,6 +1,6 @@
 ---
 sp: 󱤪
-definition: flat object; book, card, leaf, paper, document, website
+definition: плоский объект; книга, карта, лист, бумага, документ, вебсайт
 ---
 <!-- lipu is about flat things. these flat things tend to either be bendable or good for storing information. the prototypical lipu is a piece of paper; it's bendable, it's flat, and it's great for storing knowledge! to me, all other lipu's are similar to paper in some of these ways.
 

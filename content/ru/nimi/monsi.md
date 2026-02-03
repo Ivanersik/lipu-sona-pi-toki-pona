@@ -1,5 +1,5 @@
 ---
 sp: 󱤸
-definition: back, behind, rear
+definition: зад, сзади, задний
 ---
 <!-- monsi is the behind of things -->
