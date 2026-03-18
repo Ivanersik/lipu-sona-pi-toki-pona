@@ -13,7 +13,7 @@ export default {
       sans: ["Ubuntu", "nasin-nanpa"],
       italic: ["Ubuntu", "nasin-nanpa"],
       bold: ["Ubuntu", "nasin-nanpa"],
-      display: ["Dosis", "nasin-nanpa"]
+      display: ["Dosis", "nasin-nanpa", "Blogger sans"]
     },
     extend: {
       backgroundImage: {

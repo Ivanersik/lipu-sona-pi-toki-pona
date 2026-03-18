@@ -33,3 +33,9 @@
   src: url("/fonts/nasin-nanpa.otf");
   /* size-adjust: 125%; */
 }
+
+@font-face {
+  font-family: "Blogger sans";
+  src: url("/fonts/Blogger Sans-Bold.ttf");
+  font-weight: 700;
+}
