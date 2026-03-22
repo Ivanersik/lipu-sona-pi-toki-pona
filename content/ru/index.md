@@ -3,7 +3,7 @@ title: lipu sona mi pi toki pona
 language: toki Losi / Русский # name of language in toki pona / name of language in the language
 lang: ru # must be the same as the directory's name
 author: jan Wani # this is the name you'd like to be credited with
-authorlink: https://scratch.mit.edu/users/ivan010612/ # something you'd like your name to link to
+authorlink: https://scratch.mit.edu/users/Codivant/ # something you'd like your name to link to
 previous: назад
 index: содержание
 next: вперед
